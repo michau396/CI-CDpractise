@@ -1,5 +1,4 @@
 import unittest
-from datetime import datetime
 from scr.attendance_manager import mark_attendance, update_attendance
 from scr.file_operations import import_students, export_students
 from scr.student_manager import add_student
