@@ -1,0 +1,8 @@
+# Ignorowanie plików CSV i tymczasowych
+*.csv
+*.log
+
+# Ignorowanie plików wirtualnego środowiska Python
+venv/
+__pycache__/
+*.pyc
